@@ -1,1 +1,10 @@
-# HFUT-DM-EducationRS
+# HFUT-DM-Educational Rs Related Literature
+
+## New Time for modifying contents: 2023-03-19
+
+### Module: Related Cognitive Diagnosis methods
+
+| Con/Jour | Year | <div style="width:100px">Paper</div> | Link | 
+|:---:|:---:|:---:|:---:|
+| SIGIR |  2021 | (&#x1F34E;)RCD: Relation Map Driven Cognitive Diagnosis for Intelligent Education Systems | [here](http://staff.ustc.edu.cn/~qiliuql/files/Publications/Weibo-Gao-SIGIR21.pdf) | 
+| &emsp;&emsp;| &emsp;&emsp; | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |  &emsp;&emsp; | 
