@@ -7,4 +7,6 @@
 | Con/Jour | Year | <div style="width:100px">Paper</div> | Link | 
 |:---:|:---:|:---:|:---:|
 | SIGIR |  2021 | (&#x1F34E;)RCD: Relation Map Driven Cognitive Diagnosis for Intelligent Education Systems | [here](http://staff.ustc.edu.cn/~qiliuql/files/Publications/Weibo-Gao-SIGIR21.pdf) | 
-| &emsp;&emsp;| &emsp;&emsp; | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |  &emsp;&emsp; | 
+|111111|
+| AAAI |  2019 | (&#x1F34E;NCD)Neural Cognitive Diagnosis for Intelligent Education Systems | [here](https://ojs.aaai.org/index.php/AAAI/article/view/6080) |
+| &emsp;&emsp;| &emsp;&emsp; | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |  &emsp;&emsp; |  
