@@ -1,6 +1,6 @@
 # HFUT-DM-Educational Rs Related Literature
 
-## New Time for modifying contents: 2023-03-22
+## New Time for modifying contents: 2023-03-29
 
 ### Module: Related Cognitive Diagnosis methods
 
