@@ -1,12 +1,26 @@
-# HFUT-DM-Educational Rs Related Literature
+# DM Awesome Educational Recommendation Papers
 
-## New Time for modifying contents: 2023-03-29
+For benefiting research Educational Recommendation direction, I organize papers about Educational Recommendation published on top conferences and Journals. Our repository has inclued:
 
-### Module: Related Cognitive Diagnosis methods
+- `2022`: `NIPS`, `ICLR`, `ICML`, `SIGKDD`, `WWW`, `SIGIR`, `AAAI`, `IJCAI`.
+- `2021`: `ICLR`.
 
-| Con/Jour | Year | <div style="width:100px">Paper</div> | Link | 
-|:---:|:---:|:---:|:---:|
-| SIGIR |  2021 | (&#x1F34E;)RCD: Relation Map Driven Cognitive Diagnosis for Intelligent Education Systems | [here](http://staff.ustc.edu.cn/~qiliuql/files/Publications/Weibo-Gao-SIGIR21.pdf) |
-| IJCAI |  2021 | (&#x1F34E;IRR)Item Response Ranking for Cognitive Diagnosis | [here](http://staff.ustc.edu.cn/~huangzhy/files/papers/ShiweiTong-IJCAI2021.pdf) | 
-| AAAI |  2019 | (&#x1F34E;NCD)Neural Cognitive Diagnosis for Intelligent Education Systems | [here](https://ojs.aaai.org/index.php/AAAI/article/view/6080) |
-| &emsp;&emsp;| &emsp;&emsp; | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |  &emsp;&emsp; |  
+But it's not limited to this.
+
+#### What's new:
+
+- 2023/3/29 We add papers from `xxx'23` and `xxx'22`.
+
+
+## Contents
+- [Cognitive Diagnosis](#Cognitive-Diagnosis)
+- [Knowledge Trace](#Cognitive-Diagnosis)
+
+### Cognitive Diagnosis
+
+- 2021 | SIGIR | RCD:Relation Map Driven Cognitive Diagnosis for Intelligent Education Systems(19) | USTC | Weibo Gao | [Code](http://staff.ustc.edu.cn/~qiliuql/files/Publications/Weibo-Gao-SIGIR21.pdf)
+- 2019 | AAAI | Neural Cognitive Diagnosis for Intelligent Education Systems | [Code](https://ojs.aaai.org/index.php/AAAI/article/view/6080)
+
+
+### Knowledge Trace
+
