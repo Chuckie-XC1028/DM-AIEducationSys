@@ -18,8 +18,9 @@ But it's not limited to this.
 
 ### Cognitive Diagnosis
 
-- 2021 | SIGIR | RCD:Relation Map Driven Cognitive Diagnosis for Intelligent Education Systems(19) | USTC | Weibo Gao | [Code](http://staff.ustc.edu.cn/~qiliuql/files/Publications/Weibo-Gao-SIGIR21.pdf)
-- 2019 | AAAI | Neural Cognitive Diagnosis for Intelligent Education Systems | [Code](https://ojs.aaai.org/index.php/AAAI/article/view/6080)
+- 2021 | IJCAI | Item Response Ranking for Cognitive Diagnosis | USTC | Shiwei Tong |
+- 2021 | SIGIR | RCD:Relation Map Driven Cognitive Diagnosis for Intelligent Education Systems | USTC | Weibo Gao | 
+- 2020 | AAAI | Neural Cognitive Diagnosis for Intelligent Education Systems | USTC | Fei Wang |
 
 
 ### Knowledge Trace
