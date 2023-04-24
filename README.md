@@ -25,3 +25,5 @@ But it's not limited to this.
 
 ### Knowledge Trace
 
+- 2019 | WIC | Graph-based Knowledge Tracing: Modeling Student Proficiency Using Graph Neural Network | UTokyo | Hiromi Nakagawa |
+- 2015 | NIPS | Deep knowledge tracing | Stanford | Chris Piech |
