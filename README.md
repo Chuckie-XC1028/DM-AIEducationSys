@@ -36,4 +36,4 @@ But it's not limited to this.
 - 2015 | NIPS | Deep knowledge tracing | Stanford | Chris Piech |
 
 
-Tips: If you have any questions about the above! Welcome to contact me!
+`Tips`: If you have any questions about the above! Welcome to contact me!
