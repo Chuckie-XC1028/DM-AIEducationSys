@@ -1,15 +1,19 @@
-# DM Awesome Educational Recommendation Papers
+# DM Awesome AI Educational System Papers
 
-For benefiting research Educational Recommendation direction, I organize papers about Educational Recommendation published on top conferences and Journals. Our repository has inclued:
+To benefit research  AI Educational System, I organize papers about Educational published at top conferences and Journals. Our repository has included the following:
 
-- `2022`: `NIPS`, `ICLR`, `ICML`, `SIGKDD`, `WWW`, `SIGIR`, `AAAI`, `IJCAI`.
-- `2021`: `ICLR`.
+- **COnferences**
+  - `ML`: `NIPS`
+  - `AI`: `AAAI`, `IJCAI`.
+  - `Information Retrieval`: `SIGIR`, `KDD`
+- **JOunrnals**
+  - `WIC`, `KBS`
 
 But it's not limited to this.
 
-#### What's new:
+#### What's new(Save the Latest 5 records!):
 
-- 2023/4/24
+- 2023/7/26: We add two papers from `2022KDD` and `2022KBS`. We also make a new structure for the format.
 - 2023/4/24 We add two papers from `NIPS'15` and `WIC'19`.
 
 
@@ -19,12 +23,14 @@ But it's not limited to this.
 
 ### Cognitive Diagnosis
 
+- 2022 | KDD | HierCDF: A Bayesian Network-based Hierarchical Cognitive Diagnosis Framework | USTC | Jiatong Li | 
 - 2021 | IJCAI | Item Response Ranking for Cognitive Diagnosis | USTC | Shiwei Tong |
-- 2021 | SIGIR | RCD:Relation Map Driven Cognitive Diagnosis for Intelligent Education Systems | USTC | Weibo Gao | 
+- 2021 | SIGIR | RCD: Relation Map Driven Cognitive Diagnosis for Intelligent Education Systems | USTC | Weibo Gao | 
 - 2020 | AAAI | Neural Cognitive Diagnosis for Intelligent Education Systems | USTC | Fei Wang |
 
 
 ### Knowledge Trace
 
+- 2022 | KBS | Graph-based cognitive diagnosis for intelligent tutoring systems | HNU | Yu Su |
 - 2019 | WIC | Graph-based Knowledge Tracing: Modeling Student Proficiency Using Graph Neural Network | UTokyo | Hiromi Nakagawa |
 - 2015 | NIPS | Deep knowledge tracing | Stanford | Chris Piech |
