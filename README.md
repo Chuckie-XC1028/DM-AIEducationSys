@@ -31,7 +31,7 @@ But it's not limited to this.
 
 ### Knowledge Trace
 
-- 2022 | KBS | Graph-based cognitive diagnosis for intelligent tutoring systems | HNU | Yu Su | [Paper](https://www.sciencedirect.com/science/article/pii/S095070512200778X)
+- 2022 | KBS | Graph-based cognitive diagnosis for intelligent tutoring systems | HNU | Yu Su | [paper](https://www.sciencedirect.com/science/article/pii/S095070512200778X)
 - 2019 | WIC | Graph-based Knowledge Tracing: Modeling Student Proficiency Using Graph Neural Network | UTokyo | Hiromi Nakagawa |
 - 2015 | NIPS | Deep knowledge tracing | Stanford | Chris Piech |
 
