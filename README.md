@@ -34,3 +34,6 @@ But it's not limited to this.
 - 2022 | KBS | Graph-based cognitive diagnosis for intelligent tutoring systems | HNU | Yu Su |
 - 2019 | WIC | Graph-based Knowledge Tracing: Modeling Student Proficiency Using Graph Neural Network | UTokyo | Hiromi Nakagawa |
 - 2015 | NIPS | Deep knowledge tracing | Stanford | Chris Piech |
+
+
+Tips: If you have any questions! Welcome to contact me!
