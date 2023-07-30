@@ -37,5 +37,6 @@ But it's not limited to this.
 
 
 `Tips`: 
+- The author is the First Author of each article.
 - We will update the above from time to time.
 - If you have any questions about the above! Welcome to contact me!
